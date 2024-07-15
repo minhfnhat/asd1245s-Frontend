@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Empower your team with seamless communication and unparalleled productivity.",
+        "title": "Revolutionize Your Workplace Collaboration"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Empower your team with seamless communication and unparalleled productivity.",
+        "title": "Revolutionize Your Workplace Collaboration"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Empower your team with seamless communication and unparalleled productivity.",
+        "title": "Revolutionize Your Workplace Collaboration"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Empower your team with seamless communication and unparalleled productivity.",
+        "title": "Revolutionize Your Workplace Collaboration"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Empower your team with seamless communication and unparalleled productivity.",
+        "title": "Revolutionize Your Workplace Collaboration"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Empower your team with seamless communication and unparalleled productivity.",
+        "title": "Revolutionize Your Workplace Collaboration"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Empower your team with seamless communication and unparalleled productivity.",
+        "title": "Revolutionize Your Workplace Collaboration"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Empower your team with seamless communication and unparalleled productivity.",
+        "title": "Revolutionize Your Workplace Collaboration"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Empower your team with seamless communication and unparalleled productivity.",
+        "title": "Revolutionize Your Workplace Collaboration"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Workplace Collaboration",
+  "subtitle": "Empower your team with seamless communication and unparalleled productivity."
+}
